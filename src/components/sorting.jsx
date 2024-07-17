@@ -8,7 +8,7 @@ export class Sorting extends Component {
         
     state = {
         array: [],
-		arrayLength: 30
+		arrayLength: 100
     }
 
     componentDidMount() {
