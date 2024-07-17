@@ -1,0 +1,33 @@
+.array-container {
+    display: flex;
+    height: 100vh;
+
+    justify-content: center;
+
+    padding: 0 10px;
+
+    margin-bottom: 10px;
+}
+
+.array-bar {
+    align-self: flex-end;
+    margin: 0 2px;
+    background-color: #332940;
+    width: 30px;
+}
+
+.controllers {
+
+    display: flex;
+
+    margin-top: 6px;
+    justify-content: center;
+}
+
+.controllers-button {
+    margin-left: 10px;
+}
+
+.controllers-input {
+    margin-left: 10px;
+}
